@@ -1,2 +1,2 @@
+https://raw.githubusercontent.com/y33td3rb0ss/test2/main/test.txt
 C:\test
-test
